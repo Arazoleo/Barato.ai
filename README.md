@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Bem-vind%40+ao+Barato.ai+)](https://git.io/typing-svg)
 
-Comparar fornecedores é um labirinto e com frete, pedido mínimo e condições de pagamento, o menor preço vira a ponta do iceberg. Com o Barato.ai, você pnão precisa quebrar a cabeça, o agente avalia cada entrelinha, faz a matemática das cotações e revela qual proposta realmente protege o caixa do seu restaurante. Nós garantimos que o barato seja barato de verdade.
+Comparar fornecedores é um labirinto e com frete, pedido mínimo e condições de pagamento, o menor preço vira a ponta do iceberg. Com o Barato.ai, você pnão precisa quebrar a cabeça, o agente avalia cada entrelinha, faz a matemática e revela qual proposta realmente protege o caixa do seu restaurante, garantindo que o barato seja barato de verdade.
 
-O **Barato.ai** é um sistema baseado em agentes de inteligência artificial projetado para automatizar o processo de compras de restaurantes, cobrindo de ponta a ponta: desde a busca de fornecedores até a aprovação do pedido.
+O **Barato.ai** é um sistema baseado em agentes de inteligência artificial projetado para automatizar o processo de compras de restaurantes, cobrindo de ponta a ponta: desde a busca de fornecedores até a aprovação do pedido, achamos para você a melhor oferta.
 
 
 ## Como Funciona:
