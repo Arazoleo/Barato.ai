@@ -16,14 +16,14 @@ O agente de IA assume o trabalho repetitivo e operacional da cotação, enquanto
 5. **Aprovação Humana:** O agente monta um ranking com as melhores recomendações. Se o dono aprovar, o pedido é fechado. Se recusar, o pedido pode ser ajustado e o agente retoma a negociação.
 
 
-## 🎯 Público Inicial
+## Público Inicial
 
 O MVP (Produto Mínimo Viável) é focado em **restaurantes de uma única região**. Esse público foi escolhido pela alta frequência de compras (semanais), gerando um volume rico de cotações para testes de software. No futuro, a mesma arquitetura poderá ser adaptada para outros segmentos ajustando apenas o onboarding.
 
 
-## 📦 Escopo do Projeto (MVP)
+## Escopo do Projeto (MVP)
 
-| No MVP 🟢 | Futuras Atualizações 🔴 |
+| No MVP | Futuras Atualizações |
 | :--- | :--- |
 | Onboarding com produtos, quantidades e limites | Outros segmentos além de restaurantes |
 | Busca de fornecedores em uma região específica | Cobertura de várias regiões |
@@ -44,22 +44,3 @@ As frentes de trabalho do projeto estão organizadas abaixo, cada integrante lid
 | **Canais de mensagem** | Integração total com **WhatsApp** e e-mail; acompanhamento do fluxo | Miguel Rangel |
 | **Produto e back-end** | Fluxo de onboarding, telas, API e banco de dados | Ana Beatriz Ribeiro Garcia |
 | **Registro e qualidade** | Documentação, testes automatizados e métricas | Larissa Lumi Hayakawa de Sá |
-
-
-## Métricas de Sucesso
-
-O sucesso do projeto será validado através de testes automatizados e das seguintes métricas de negócio:
-* ** Economia Gerada:** Diferença entre o custo real da melhor oferta conseguida pela IA e o que o restaurante já pagava antes.
-* ** Tempo Poupado:** Horas gastas para concluir uma cotação manualmente *versus* com o auxílio do agente Barato.ai.
-* ** Precisão da Extração:** Taxa de sucesso na interpretação correta de ofertas a partir de formatos complexos (áudios, fotos, etc).
-* ** Adoção:** Percentual de compras efetivamente aprovadas pelo dono a partir das recomendações feitas pelo agente.
-
-
-
-## 🚀 Próximos Passos
-- [ ] Encontrar um restaurante real interessado em testar a ideia.
-- [ ] Entrevistar donos de restaurantes para mapear o fluxo atual de compras.
-- [ ] Coletar dados reais (cotações e preços passados) para usar como base ("ground truth").
-- [ ] Definir a alocação exata dos integrantes nas frentes de trabalho.
-- [ ] Validar limitações técnicas e políticas das APIs de canais de mensagem (especialmente WhatsApp).
-- [ ] Construir a versão inicial do fluxo (1 restaurante + poucos fornecedores).
